@@ -2,6 +2,16 @@
 
 This is a Streamlit app that allows users to answer a couple of questions and get a tailor-made response from an AI chatbot. The chatbot uses OpenAI GPT-3.5 Turbo to generate responses based on the user's input.
 
+## Live Demo
+
+You can test the live application here: [AI Survey Bot Recommendation](https://ai-survey-bot-recommendation-9e6213040391.herokuapp.com/)
+
+## Key files
+
+- **app.py** - Main Streamlit app code
+- **requirements.txt** - Python dependencies
+- **setup.sh** - Heroku config script
+
 ## Installation
 
 1. Clone the repository:
