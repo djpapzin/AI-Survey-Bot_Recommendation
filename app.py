@@ -16,7 +16,7 @@ email = os.getenv('EMAIL')
 password = os.getenv('PASSWORD')
 
 def main():
-    st.title("AI Business Assistant")
+    st.title("AI Survey Bot Recommendation")
     st.write("**Answer a couple of questions to get a tailor-made response.**")
 
     # Question 1
