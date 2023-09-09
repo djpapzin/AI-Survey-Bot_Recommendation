@@ -1,19 +1,22 @@
 # AI Survey Bot Recommendation
 
+![Live Demo](AI-Bot-Recommendation.jpeg)
+
 This is a Streamlit app that allows users to answer a couple of questions and get a tailor-made response from an AI chatbot. The chatbot uses OpenAI GPT-3.5 Turbo to generate responses based on the user's input.
+
+**Live Demo:** [AI Survey Bot Recommendation](https://huggingface.co/spaces/DjPapzin/AI-Bot-Recommendation)
 
 ## Key files
 
 - **app.py** - Main Streamlit app code
 - **requirements.txt** - Python dependencies
-- **setup.sh** - Heroku config script
 
 ## Installation
 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/djpapzin/AI-Survey-Bot_Recommendation.git
    ```
 
 2. Install the dependencies:
